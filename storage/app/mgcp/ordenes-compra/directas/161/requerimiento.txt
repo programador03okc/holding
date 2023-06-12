@@ -1,0 +1,27 @@
+al aprobar un requerimiento, que se muestre si ya no hay presupuesto
+autonomia de gasto corriente un monto
+autonomia de mercaderia otro monto
+que se apruebe por usuario no por cargo
+el aprobador no necesariamente va a pertenecer a esa division
+pueden haber hasta 3 aprobadores
+aprobador puede ser y / o 
+
+por ejemplo de 0 a 1000 entra aprobador 1 y aprobador 2
+de 1001 a 2000 entra aprobador 3 y aprobador 4
+
+
+
+ejemplo: Manuel puede aprobar o Jonathan en caso que Manuel no este disponible
+
+
+compra para stock
+compra para activos
+compra para garantías
+
+agregar comobobox que es tipo de requerimiento, que para todos se muestre el solicitado por
+campo division que va dirigido a
+por verse cual de partida y centro de costos es obligatorio
+no deberian mostrarse partidas y centros de costos que no son de su area
+compras para activos y para stock es el flujo normal (se elabora, revisa y aprueba)
+una vez revisado el jefe de unidad se considera aprobado
+

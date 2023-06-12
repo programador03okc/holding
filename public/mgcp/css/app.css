@@ -1,0 +1,245 @@
+textarea {
+    resize: none;
+}
+span.rojo {
+    color: #e53030;
+}
+span.verde {
+    color: #1dba3d;
+}
+
+.text-danger {
+    color: #e53030;
+}
+.text-success {
+    color: #1dba3d;
+}
+
+input.danger {
+    background-color: #f2dede;
+}
+
+input.warning {
+    background-color: #fcf8e3;
+}
+.d-none {
+    display: none;
+}
+.d-block {
+    display: block;
+}
+
+/* LOGIN */
+body.login-page {
+    background: #c1c6d9;
+}
+body .login-box {
+    width: 410px;
+}
+.login-box-msg {
+    font-size: 17px;
+    padding: 0 20px 40px 20px;
+}
+.login-box-body {
+    border: 1px solid #b7b7b7;
+    box-shadow: 0px 0px 10px 2px #ababab;
+}
+.login-box-body h5 {
+    font-weight: 600;
+}
+.login-box-logo {
+    width: 100%;
+    text-align: center;
+}
+.login-box-logo img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+table.table thead th {
+    text-align: center;
+}
+table.table td {
+    vertical-align: middle !important;
+}
+
+div.modal div.box-header {
+    padding: 0px 10px 0px 10px;
+}
+
+div.modal .box-title {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+div.modal-body div.last {
+    margin-bottom: 0px;
+    box-shadow: none;
+}
+.select2-container--default .select2-selection--single,
+.select2-selection .select2-selection--single {
+    padding: 6px 6px;
+}
+
+tr.no-top td {
+    border-top: none !important;
+}
+
+td span {
+    line-height: 0px;
+}
+
+div.modal-body div.form-group {
+    margin-bottom: 12px;
+}
+
+.lobibox-notify {
+    box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+}
+
+div.modal-body legend {
+    font-size: 18px;
+}
+
+div.modal-body .help-block {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#modalEntidad legend {
+    font-size: 16px;
+}
+
+div.modal div.alert {
+    margin-bottom: 5px;
+}
+
+div.modal div.mensaje-filtros {
+    margin-bottom: 10px;
+}
+
+/* INDICADORES DE O/C EN EL NAVBAR */
+li.indicador span.monto-abreviado {
+    color: #fff !important;
+    padding: 2px 3px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+li.indicador span.success {
+    background-color: #00a65a !important;
+}
+
+li.indicador span.danger {
+    background-color: #dd4b39 !important;
+}
+
+li.indicador span.warning {
+    background-color: #f39c12 !important;
+}
+
+li.indicador a {
+    padding-left: 7px !important;
+    padding-right: 7px !important; 
+    padding-top: 15px;
+    padding-bottom: 14px;
+}
+
+span.input-group-addon {
+    background-color: #ecf0f5 !important;
+}
+
+table.dataTable tbody tr.selected {
+    background-color: #C3C3C3;
+}
+
+/* BLOQUEA MODAL PARA MOSTRAR SPINNER */
+.overlay {
+    z-index: 50;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.overlay > .fa {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -15px;
+    margin-top: -15px;
+    
+    color: #3c8dbc;
+    font-size: 30px;
+}
+
+/* AJUSTES SWEET ALERT 2 */
+.swal2-html-container {
+    font-size: 14px !important;
+  }
+
+.swal2-confirm {
+    background-color: #337ab7 !important;
+}
+.swal2-deny {
+    background-color: #dd4b39 !important;
+}
+
+/* MODALS */
+.modal { overflow-y: auto !important; }
+.modal-xxl{ max-width: 92%; }
+.modal-xl{ max-width: 85%; }
+.modal-lg{ max-width: 78%; }
+.modal-md{ max-width: 60%; }
+.modal-sm{ max-width: 50%; }
+.modal-xs{ max-width: 35%; }
+.modal-xxs{ max-width: 25%; }
+.modal-xxxs{ max-width: 15%; }
+
+/* SCROOL */
+::-webkit-scrollbar {
+    width: 9px;
+    background-color: #fff;
+}
+::-webkit-scrollbar:horizontal {
+    height: 9px;
+    background-color: #fff;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(255, 255, 255, .3);
+    background-color: #fff;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #b8b8b8; 
+}
+.modal::-webkit-scrollbar-thumb {
+    background-color: #b8b8b8 !important; 
+}
+.box-body-overflow {
+    max-height: 650px;
+    overflow-y: auto;
+}
+.box-body-overflow::-webkit-scrollbar-thumb {
+    background-color: #b8b8b8 !important; 
+}
+
+/* Colores para flag */
+.flag-amarillo { background-color: #ffef79; }
+.flag-azul { background-color: #95c2f9; }
+.flag-blanco { background-color: #ffffff; }
+.flag-naranja { background-color: #ffd281; }
+.flag-verde { background-color: #95f99d; }
+.flag-rojo { background-color: #f99595; }
+
+@media (max-width: 768px) {
+    .modal-xxl, .modal-xl, .modal-lg, .modal-md, .modal-sm, .modal-xs, .modal-xxs, .modal-xxxs{
+        max-width: 96%;
+    }
+    body .login-box {
+        width: 90%;
+    }
+}

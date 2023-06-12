@@ -1,0 +1,230 @@
+ORDEN DE
+COMPRA
+OCAM-2021-90-1-0
+
+IM-CE-2020-5 COMPUTADORAS DE ESCRITORIO,
+COMPUTADORAS PORTÁTILES Y ESCÁNERES
+DATOS DE LA ENTIDAD
+RUC
+Razón Social
+Ejecutora
+
+: 20172557628
+: UNIVERSIDAD NACIONAL DE TRUJILLO
+: UNIVERSIDAD NACIONAL DE TRUJILLO [000090]
+
+DATOS DEL PROVEEDOR
+RUC
+Razón Social
+Domicilio Fiscal
+Ubigeo
+Rpte Legal
+Correo Electrónico
+Teléfono fijo
+Teléfono móvil
+
+: 20600257286
+: PROYECTEC E.I.R.L.
+: URB. EL PORVENIR CAL. CORONEL LEONCIO PRADO N° 615
+: MIRAFLORES / AREQUIPA / AREQUIPA
+: PAREDES GALLEGOS JOSE ALBERTO
+: pyventas01@proyectec.com.pe
+:
+: 966003009
+
+DATOS PARA EL PAGO DE LA PRESTACIÓN
+Banco
+: BCP
+Número de Cuenta
+: 385-2231700-0-11
+CCI
+: 00238500223170001139
+DATOS DE LA CONTRATACIÓN
+Emergencia
+: NO
+Fecha de formalización
+:
+Tipo de Contratación
+: Individual
+Procedimiento de Compra : Ordinaria
+Tipo de Entrega
+: Entrega única
+Total de entregas
+:1
+Comp.Anual SIAF
+: 1804-2
+
+Nro
+
+Ficha - producto
+
+1
+
+ESCANER DE DOCUMENTOS : T/ALIMENTADOR DE HOJAS USB: SI SCSI: NO LAN: OPCIONAL WLAN: NO CAPACIDAD
+D/ALIMENTADOR: 100 HOJAS TAMAÑO MAXIMO: A-4 RESOLUCION OPTICA: 1200 ppp CDT: 9000 pg. CIS VELOCIDAD
+D/CAPTURA MONOCROMATICA: 85 ppm VELOCIDAD D/CAPTURA COLOR: 85 ppm G. F: 12 MESES CARRY-IN UNIDAD
+EPSON WORKFORCE DS-970 B11B251201
+
+SISCATALOGO - PERÚ COMPRAS
+
+Impresión realizada el 20/07/2021
+
+Marca
+EPSON
+
+Código Único
+de Producto
+
+Estado
+
+: PUBLICADA
+
+Cantidad
+
+Importe (PEN)
+
+1
+
+1,960.87
+
+IMPORTE TOTAL (PEN)
+
+1,960.87
+
+Página 1 de 2
+
+ORDEN DE
+COMPRA
+OCAM-2021-90-1-1
+
+IM-CE-2020-5 COMPUTADORAS DE ESCRITORIO,
+COMPUTADORAS PORTÁTILES Y ESCÁNERES
+DATOS DE LA ENTIDAD
+RUC
+Razón Social
+Ejecutora
+
+: 20172557628
+: UNIVERSIDAD NACIONAL DE TRUJILLO
+: UNIVERSIDAD NACIONAL DE TRUJILLO [000090]
+
+DATOS DEL PROVEEDOR
+RUC
+Razón Social
+Domicilio Fiscal
+Ubigeo
+Rpte Legal
+Correo Electrónico
+Teléfono fijo
+Teléfono móvil
+
+: 20600257286
+: PROYECTEC E.I.R.L.
+: URB. EL PORVENIR CAL. CORONEL LEONCIO PRADO N° 615
+: MIRAFLORES / AREQUIPA / AREQUIPA
+: PAREDES GALLEGOS JOSE ALBERTO
+: pyventas01@proyectec.com.pe
+:
+: 966003009
+
+DATOS DE RESPONSABLES DE RECEPCIÓN
+Responsable
+: MARCO ANTONIO RODRIGUEZ NUÑEZ
+D.N.I.
+: 18113602
+Teléfono
+: (51) 44223876 / 948-321-328
+Cargo
+: JEFE ALMACÉN CENTRAL
+Correo electrónico
+: almacencentral@unitru.edu.pe
+
+MARCO ANTONIO RODRIGUEZ NUÑEZ
+18113602
+(51) 44223876 / 948-321-328
+JEFE ALMACÉN CENTRAL
+almacencentral@unitru.edu.pe
+
+DATOS PARA EL PAGO DE LA PRESTACIÓN
+Banco
+: BCP
+Número de Cuenta
+: 385-2231700-0-11
+CCI
+: 00238500223170001139
+DATOS DE LA CONTRATACIÓN
+Emergencia
+: NO
+Fecha de formalización
+:
+Tipo de Contratación
+: Individual
+Procedimiento de Compra : Ordinaria
+Tipo de Entrega
+: Entrega única
+Total de entregas
+:1
+Expediente SIAF
+: 3534
+Plazo de entrega
+: Del 24/07/2021 al 30/07/2021
+
+Estado
+
+: PUBLICADA
+
+DATOS DEL LUGAR DE ENTREGA
+Número de entrega
+: 1 de 1
+Dirección
+: JR. DIEGO DE ALMAGRO - N° 344 - ALMACEN CENTRAL
+Ubigeo
+: TRUJILLO / TRUJILLO / LA LIBERTAD
+Referencia
+: ALMACEN CENTRAL UNT
+Latitud / Longitud
+:
+Código Postal
+:
+
+Nro
+
+Ficha - producto
+
+1
+
+ESCANER DE DOCUMENTOS : T/ALIMENTADOR DE HOJAS USB: SI SCSI: NO LAN: OPCIONAL WLAN: NO CAPACIDAD
+D/ALIMENTADOR: 100 HOJAS TAMAÑO MAXIMO: A-4 RESOLUCION OPTICA: 1200 ppp CDT: 9000 pg. CIS VELOCIDAD
+D/CAPTURA MONOCROMATICA: 85 ppm VELOCIDAD D/CAPTURA COLOR: 85 ppm G. F: 12 MESES CARRY-IN UNIDAD
+EPSON WORKFORCE DS-970 B11B251201
+
+Marca
+EPSON
+
+Código Único
+de Producto
+
+Cantidad
+1
+
+Precio Unitario
+Total (Sin IGV)
+1,661.75
+
+IMPORTE TOTAL (PEN)
+
+SISCATALOGO - PERÚ COMPRAS
+
+Impresión realizada el 20/07/2021
+
+IGV
+299.12
+
+Importe (PEN)
+1,960.87
+
+1,960.87
+
+Página 2 de 2
+
+

@@ -1,0 +1,3 @@
+borrar letras &nbsp;
+ver por que se duplico un cuadro de costo en una oportunidad
+mostrar el codigo de oport en la lista de oc propias
